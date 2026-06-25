@@ -4,7 +4,7 @@ Repositório da GitHub Pages para publicar artigos em Markdown.
 
 ## Como publicar um novo artigo
 
-1. Crie um arquivo em `/home/runner/work/brduru..github.io/brduru..github.io/_posts` no formato:
+1. Crie um arquivo em `_posts/` no formato:
    `AAAA-MM-DD-titulo-do-artigo.md`
 2. Adicione o front matter no topo:
 
